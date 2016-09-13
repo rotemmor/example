@@ -260,6 +260,7 @@
     <Content Include="Scripts\Controllers\directive.js" />
     <Content Include="Scripts\Controllers\ListController.js" />
     <Content Include="Scripts\Controllers\service.js" />
+    <Content Include="Scripts\db\dbo.Images.data.sql" />
     <Content Include="Scripts\FileAPI.flash.swf" />
     <Content Include="Scripts\FileAPI.js" />
     <Content Include="Scripts\FileAPI.min.js" />
